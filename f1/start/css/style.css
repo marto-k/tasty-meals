@@ -19,6 +19,10 @@
 h2{
   font-family: 'Courgette', cursive;
 }
+h2 img{
+  width:80px;
+  height:80px;
+}
 /* --------------------------------
 
 Primary style

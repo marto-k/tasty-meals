@@ -4,6 +4,7 @@
 #brand{
   background-color:transparent;
 }
+
 #brand img{
   width:20px;
   height:20px;
@@ -15,9 +16,11 @@
 #Tasty-meals{
   background-color:maroon;
 }
-h2{
+
+.cd-title #Tasty-meals h2{
   font-family: 'Courgette', cursive;
 }
+
 /* --------------------------------
 
 Primary style

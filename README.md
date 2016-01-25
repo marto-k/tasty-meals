@@ -2,4 +2,7 @@
 ---
 <h3 style="text-align:center;">Tasty-meals</h3>
 ---
-<p>This website is based on the food,menus and prices of what the restaurant is offering.This restaurant offers all kind of of foods and with varying prices. </p>
+<p>1.This website is based on the food,menus and prices of what the restaurant is offering.This restaurant offers all kind of of foods and with varying prices. </p>
+<p>2.This website also offers advertisements for the new and trending trends in the food industry.For emphasis the types involve chicken burgers and their trending mixes .</p>
+<p></p>
+<p>Lastly in the atmost last section there is a commentary section and suggestions where online customers will send in their views and suggestions. </p>

@@ -2,16 +2,22 @@
  * HOME SECTION
  ******************************************/
 #brand{
-  background-color:#ffffff;
+  background-color:transparent;
 }
 #brand img{
   width:20px;
   height:20px;
+  position:absolute;
 }
 #restaurant{
   font-size:30px;
 }
-
+#Tasty-meals{
+  background-color:maroon;
+}
+h2{
+  font-family: 'Courgette', cursive;
+}
 /* --------------------------------
 
 Primary style

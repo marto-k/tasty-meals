@@ -24,8 +24,8 @@ h2 img{
   height:80px;
 }
 #navigation{
-  background-color:red;
-  background-color:#ffffff;
+  background-color:maroon;
+  display:inline-table;
 }
 /* --------------------------------
 

@@ -16,11 +16,9 @@
 #Tasty-meals{
   background-color:maroon;
 }
-
-.cd-title #Tasty-meals h2{
+h2{
   font-family: 'Courgette', cursive;
 }
-
 /* --------------------------------
 
 Primary style
@@ -38,11 +36,11 @@ html * {
 }
 
 html {
-  font-size: 62.5%;
+  font-size:10px;
 }
 
 body {
-  font-size: 1.9rem;
+  font-size: 1.8rem;
   font-family: "Source Sans Pro", sans-serif;
   color: #aebcb9;
   background-color: #0d0d0d;
@@ -59,8 +57,8 @@ a {
   text-align: center;
 }
 .cd-title h1 {
-  font-size: 2.4rem;
-  font-weight: 700;
+  font-size: .4rem;
+  font-weight: 400;
 }
 @media only screen and (min-width: 768px) {
   .cd-title {
@@ -70,15 +68,15 @@ a {
 @media only screen and (min-width: 1170px) {
   .cd-title {
     height: 20px;
-    line-height: 60px;
+    line-height: 42px;
   }
   .cd-title h1 {
-    font-size: 3rem;
+    font-size: ;
   }
 }
 
 .cd-intro {
-  width: 100%;
+  width: 95%;
   max-width: 768px;
   text-align: center;
 }
@@ -109,7 +107,7 @@ a {
 }
 @media only screen and (min-width: 1170px) {
   .cd-headline {
-    font-size: 0;
+    font-size: 6rem;
   }
 }
 
